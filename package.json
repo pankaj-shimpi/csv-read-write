@@ -1,0 +1,28 @@
+{
+  "name": "csv-read-write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj-shimpi/csv-read-write.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj-shimpi/csv-read-write/issues"
+  },
+  "homepage": "https://github.com/pankaj-shimpi/csv-read-write#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "json2csv": "^5.0.6",
+    "mongoose": "^5.12.7"
+  }
+}
